@@ -10,7 +10,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "type-check": "tsc --project tsconfig.json --pretty --noEmit"
   },
   "dependencies": {
     "next": "13.5.6",
