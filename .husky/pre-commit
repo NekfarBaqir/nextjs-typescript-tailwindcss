@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Add the following for pnpm
+pnpm lint-staged
+
+
