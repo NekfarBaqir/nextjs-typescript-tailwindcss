@@ -7,12 +7,11 @@
 
 </div>
 
-## check the live demo:
-
+## Check the live demo:
 ### [Demo](https://nextjs-ts-tailwindcss-demo.vercel.app)
 
-## you want to learn how to setup this project?
-[check this](https://www.jsdojo.dev/posts/setup-a-nextjs-with-app-directory-typescript-tailwindcss-project-powered-by-eslint-prettier-husky-and-lint-staged)
+## Do you want to learn how to setup this project?
+[Check My Blog post here ](https://www.jsdojo.dev/posts/setup-a-nextjs-with-app-router-typescript-tailwindcss-project-powered-by-eslint-prettier-husky-and-lint-staged)
 
 ## Features
 
