@@ -11,6 +11,6 @@ const buildPrettierCommand = (filenames) =>
     .join(" ")}`
 
 module.exports = {
-  "*.ts?(x)": () => "yarn type-check",
+  "**/*.ts?(x)": () => "yarn type-check",
   "*.{js,jsx,ts,tsx}": [buildEslintCommand, buildPrettierCommand],
 }
