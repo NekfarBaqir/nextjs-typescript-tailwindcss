@@ -7,12 +7,19 @@
 
 </div>
 
+## check the live demo:
+
+### [Demo](https://nextjs-ts-tailwindcss-demo.vercel.app)
+
+## you want to learn how to setup this project?
+[check this](https://www.jsdojo.dev/posts/setup-a-nextjs-with-app-directory-typescript-tailwindcss-project-powered-by-eslint-prettier-husky-and-lint-staged)
+
 ## Features
 
 This starter simple project powered by bellow tools out of the box!
 
 - ⚡️ Next.js 13
-- 🆕 app router 
+- 🆕 app router
 - ⚛️ Folder structure by Atomic Design System
 - ⚛️ React 18
 - ☑️ TypeScript
@@ -60,3 +67,10 @@ pnpm dev
 ```
 
 Note : This starter project is under work. I will gradually add new features and development tools to it.
+
+## You can connect with me:
+
+- [🌎 My Website](https://jsdojo.dev)
+- [🗒️ LinkedIn](https://www.linkedin.com/in/baqirnekfar123/)
+- [📀 YouTube](https://www.youtube.com/channel/UCttmLaFgHTa2W9qTvb-YTpA)
+- [📸 Instagram](https://www.instagram.com/baqirnekfar/)

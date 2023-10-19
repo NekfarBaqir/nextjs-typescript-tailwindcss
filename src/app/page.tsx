@@ -10,7 +10,8 @@ export default function Home() {
       <h2 className="text-left text-3xl text-red-400">Project features:</h2>
       <ul className="border p-4">
         <li> ⚡️ Next.js 13</li>
-        <li>🆕 app directory and great folder structure.</li>
+        <li>🆕 app router</li>
+        <li>⚛ Folder structure by Atomic Design System</li>
         <li>⚛️ React 18</li>
         <li>☑️ TypeScript</li>
         <li>
@@ -38,17 +39,26 @@ export default function Home() {
             </Link>
           </li>
           <li>
-            <Link className="text-blue-500" href={"https://jsdojo.dev"}>
+            <Link
+              className="text-blue-500"
+              href={"https://www.linkedin.com/in/baqirnekfar123/"}
+            >
               🗒️ LinkedIn
             </Link>
           </li>
           <li>
-            <Link className="text-blue-500" href={"https://jsdojo.dev"}>
+            <Link
+              className="text-blue-500"
+              href={"https://www.youtube.com/channel/UCttmLaFgHTa2W9qTvb-YTpA"}
+            >
               📀 YouTube
             </Link>
           </li>
           <li>
-            <Link className="text-blue-500" href={"https://jsdojo.dev"}>
+            <Link
+              className="text-blue-500"
+              href={"https://www.instagram.com/baqirnekfar/"}
+            >
               📸 Instagram
             </Link>
           </li>
